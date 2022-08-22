@@ -3,3 +3,5 @@ Tengo 24 anos y vivo en Chile
 Estudio Desarrollo web en Platzi 
 
 Este es el primer commit, ahora este seria el segundo commit. 
+Aqui se utlizo el git reset y se borro todo lo que se avanzo 
+Ahora haremos otros commits 
