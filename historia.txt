@@ -2,4 +2,4 @@ Hola soy Alex y esta es mi historia
 Tengo 24 anos y vivo en Chile 
 Estudio Desarrollo web en Platzi 
 
-Este es el primer commit 
+Este es el primer commit, ahora este seria el segundo commit. 
